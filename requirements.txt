@@ -8,3 +8,5 @@ netaddr
 ecdsa==0.13
 paramiko==2.0.2
 netifaces
+
+pillow>=6.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
